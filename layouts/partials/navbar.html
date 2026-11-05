@@ -26,9 +26,7 @@
                 {{ if eq $url .URL }}
                   {{ $labelClass = "optionswitch__label nav__link--active" }}
                 {{ end }}
-
               {{ end }}
-
 
               <label class="{{ $labelClass }}" for="{{ $menuId }}"
                 >{{ $menuItem.Name }} <i class="fa fa-angle-down" aria-hidden="true"></i
@@ -68,36 +66,10 @@
             >
           </li>
         {{ end }}
-
       {{ end }}
     </ul>
+
     <ul class="nav__list nav__list--end">
-      {{ if and .IsTranslated hugo.IsMultilingual }}
-        <li class="nav__list-item">
-          <div class="optionswitch">
-            <input class="optionswitch__picker" type="checkbox" id="languagepicker" hidden />
-            <label class="optionswitch__label" for="languagepicker"
-              >{{ .Site.Language.Label }} <i class="fa fa-angle-down" aria-hidden="true"></i
-            ></label>
-            <div class="optionswitch__triangle"></div>
-            <ul class="optionswitch__list">
-              {{ range $.Translations }}
-                <li class="optionswitch__list-item">
-                  <a href="{{ .RelPermalink }}" title="{{ .Language.Label }}"
-                    ><span
-                      {{ if eq . $.Site.Language }}
-                        class="active"
-                      {{ end }}
-                      aria-label="{{ i18n "ariaLanguage" }}{{ .Language.Label }}"
-                      >{{ .Language.Label }}</span
-                    >
-                  </a>
-                </li>
-              {{ end }}
-            </ul>
-          </div>
-        </li>
-      {{ end }}
       {{ if not .Site.Params.disableThemeSwitcher }}
         <li class="nav__list-item">
           <div class="themeswitch">
