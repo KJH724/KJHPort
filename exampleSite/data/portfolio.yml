@@ -1,14 +1,13 @@
-
 portfolioitems:
-  - title: 개인 실습
-    description: '직접 수행한 프로그래밍 실습 활동'
+  - title: Personal Projects
+    description: 'My programming practice'
     portfolioitem:
-      - name: Java 객체지향 프로그래밍
+      - name: Java OOP Practice
         link: '/KJHPort/portfolio/java-oop/'
-        linktext: '실습 자세히 보기'
-        description: 'Java의 클래스, 객체, 생성자 및 인터페이스를 활용하여 음식 섭취 칼로리와 운동 소모 칼로리를 계산하고, 음식 중량을 조절하는 프로그램을 구현한 개인 실습입니다.'
+        linktext: 'View practice details'
+        description: 'A Java program that calculates food intake and workout calories using classes, objects, constructors, and interfaces.'
         tags:
           - Java
           - Eclipse
-          - 객체지향 프로그래밍
+          - OOP
         status: 'Finished'
