@@ -55,3 +55,5 @@ FunctionName 인터페이스에 computeKcal()와 prtInfo() 메소드를 정의�
 ## 6. 코드 실행 결과
 
 ![Java 객체지향 실습 실행 결과](/KJHPort/images/java-result.png)
+
+5일 간의 음식 섭취 및 운동 칼로리를 계산하고, 총 운동 소모 칼로리와 섭취 칼로리가 같아지도록 음식 중량을 조절한 결과를 확인할 수 있습니다.
