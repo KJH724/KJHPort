@@ -9,3 +9,11 @@
 .nav__list-item a {
     font-size: 20px;
 }
+
+.nav__list-item {
+    margin-right: 25px;
+}
+
+.post img {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
