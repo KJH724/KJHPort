@@ -1,8 +1,8 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "김주현의 포트폴리오"
+author = "김주현"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "김주현의 개인 포트폴리오 입니다."
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -58,25 +58,21 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 
 ## Social links
 # use 'fa-brands' when brand icons, use 'fas' when standard solid icons.
-[[socialIcons]]
-icon = "fa-brands fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
 
 [[socialIcons]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/KJH724/"
 
 [[socialIcons]]
 icon = "fa-brands fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/wnxil.ur?mdxt=MXRyYXZwZ3M2dWlobw%3D%3D&utm_source=qr"
 
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:juu724k@gmail.com"
 
 [mermaid]
 # enable = true
