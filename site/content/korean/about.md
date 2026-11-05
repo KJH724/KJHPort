@@ -1,25 +1,30 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "About Me"
+description = "자기소개 및 학습 목표"
+date = "2026-11-06"
+draft = false
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## 안녕하세요!
 
-Hugo makes use of a variety of open source projects including:
+안녕하세요. 현재 전북대학교 컴퓨터인공지능학부 2학년에 재학 중인 학생입니다.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+현재 객체지향 프로그래밍을 학습하며 효율적으로 소프트웨어를 개발할 수 있는 역량을 키우기 위해 노력하고 있습니다.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+또한 웹 개발에도 관삼울 가지고 다양한 기술을 학습하고 있습니다. 직접 코드를 작성하여 원하는 웹 사이트를 자유롭게 구현할 수 있다는 점에 흥미를 느껴 관심을 가지게 되었습니다.
+ 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## 학습 중인 기술
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+**Java** : 클래스, 상속, 인터페이스를 활용한 객체지향 프로그래밍 실습
+**HTML / CSS / JavaScript** : 웹페이지의 구조와 스타일, 동작을 구현하는 기초 학습
+**Git / GitHub** : 소스 코드 버전 관리 및 Githubs Pages를 통한 프로젝트 배포
+**Linux** : 터미널 명령어를 활용한 디렉토리 생성, 파일 관리 및 권한 확인 실습
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## 학습 목표
+
+## 향후 학습 목표
+
+앞으로 웹 개발에 필요한 기술을 꾸준히 학습하여, 기존 템플릿에 의존하지 않고 처음부터 직접 웹사이트를 제작할 수 있는 역량을 기르고 싶습니다.
+
+이를 위해 HTML, CSS, JavaScript의 기초를 더욱 탄탄히 다지고, 간단한 토이 프로젝트를 기획하여 웹사이트의 설계부터 구현, 배포까지 스스로 진행해 볼 계획입니다.
