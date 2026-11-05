@@ -70,3 +70,33 @@ If you like this theme, give it a star on GitHub, and consider supporting its de
 - Go to [Ales Krivec](https://unsplash.com/photos/4miBe6zg5r0) for providing the thumbnail picture used in the exampleSite [image-test post](https://github.com/lxndrblz/anatole/blob/master/exampleSite/content/english/post/image-test.md).
 - Go to [Tobias Ahlin](https://github.com/tobiasahlin) for his [SpinKit](https://github.com/tobiasahlin/SpinKit) that is used in the exampleSite [redirect post](https://github.com/lxndrblz/anatole/blob/master/exampleSite/content/english/post/redirect.md).
 - Go to [FontAwseome](https://fontawesome.com/) for providing the icons used in this project.
+
+## 개인 포트폴리오 실행 방법
+
+본 프로젝트는 Hugo Anatole 테마를 이용하여 제작한 개인 포트폴리오 웹사이트입니다.
+
+### 1. 개발 환경
+- 운영체제: Windows
+- Hugo 버전: 0.167.0
+- 배포: GitHub Actions 및 GitHub Pages
+
+### 2. 도구 설치
+Hugo를 설치하기 위해 사용합니다.
+설치 방법: https://gohugo.io/installation/
+
+### 3. 실행 방법
+프로젝트의 exampleSite 폴더에서 다음 명령어를 실행합니다.
+
+```bash
+hugo server --themesDir ../..
+```
+
+### 4. 빌드 방법
+웹사이트를 HTML, CSS 등의 파일로 변환하기 위해 다음 명령어를 사용합니다.
+
+```bash
+hugo --themesDir ../..
+```
+
+### 5. 배포 방법
+수정한 파일을 GitHub 저장소의 main 브랜치에 push하면 GitHub Actions를 통해 GitHub Pages에 자동으로 배포됩니다.
