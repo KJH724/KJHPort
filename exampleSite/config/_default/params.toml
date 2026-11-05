@@ -1,8 +1,8 @@
 
-title = "I'm JuHyeon Kim"
-author = "JuHyeon Kim"
+title = "김주현의 포트폴리오"
+author = "김주현"
 #copyright = "2020-2021"
-description = "Call me JuHyeon"
+description = "김주현의 개인 포트폴리오 입니다."
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -62,7 +62,7 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 [[socialIcons]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/KJH724/KJHPort.git"
+url = "https://github.com/KJH724/"
 
 [[socialIcons]]
 icon = "fa-brands fa-instagram"

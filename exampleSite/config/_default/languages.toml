@@ -4,8 +4,3 @@ weight = 1
 label = "KO"
 contentDir = "content/korean"
 
-[en]
-title = "My blog"
-weight = 2
-label = "EN"
-contentDir = "content/english"

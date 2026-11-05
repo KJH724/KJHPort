@@ -1,7 +1,7 @@
 baseURL = "https://kjh724.github.io/KJHPort/"
 locale = "ko"
 DefaultContentLanguage = "ko"
-title = "Website of JuHyeon Kim"
+title = "김주현의 포트폴리오"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
