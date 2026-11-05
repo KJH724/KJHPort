@@ -1,0 +1,22 @@
+**/themes/
+demo/
+.hugo/*
+!.hugo/version
+.hugo_build.lock
+/node_modules
+exampleSite/public/
+.DS_Store
+public/
+
+# Prepared Hugo Pages site
+!/site/
+!/site/**
+!/.github/
+!/.github/**
+!/.github-pages.json
+/public/
+/.pages-tools/
+**/node_modules/
+**/resources/_gen/
+**/.hugo_build.lock
+/.github-pages-setup-backups/
