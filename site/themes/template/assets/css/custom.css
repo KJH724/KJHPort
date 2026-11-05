@@ -46,3 +46,12 @@
 #backToTop:hover {
     background-color: #666;
 }
+
+.sidebar__introduction-title h1,
+.sidebar__introduction-title a {
+    font-size: 42px;
+}
+
+.sidebar__introduction-description p {
+    font-size: 22px;
+}
