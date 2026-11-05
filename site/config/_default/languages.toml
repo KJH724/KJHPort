@@ -4,27 +4,27 @@ weight = 1
 label = "한국어"
 contentDir = "content/korean"
 
-[[ko.menus.main]]
+[[ko.menu.main]]
 name = "Home"
 url = "/"
 weight = 100
 
-[[ko.menus.main]]
+[[ko.menu.main]]
 name = "Posts"
 url = "/post/"
 weight = 200
 
-[[ko.menus.main]]
+[[ko.menu.main]]
 name = "Portfolio"
 url = "/portfolio/"
 weight = 300
 
-[[ko.menus.main]]
+[[ko.menu.main]]
 name = "About"
 url = "/about/"
 weight = 400
 
-[[ko.menus.main]]
+[[ko.menu.main]]
 name = "Contact"
 url = "/contact/"
 weight = 500
