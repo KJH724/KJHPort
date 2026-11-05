@@ -1,7 +1,7 @@
 +++
 title = "About Me"
 description = "자기소개 및 학습 목표"
-date = "2026-11-06"
+date = "2026-11-05"
 draft = false
 +++
 
