@@ -46,7 +46,13 @@ draft = false
 
 음식, 운동 클래스에서 공통으로 사용할 메소드를 정의하였습니다.
 
-![FunctionName 인터페이스](/KJHPort/images/java-interface.png
+![FunctionName 인터페이스](/KJHPort/images/java-interface.png)
+
+- Food 클래스
+인터페이스를 상속 받아 메소드를 구현하였습니다. 
+
+![Food 클래스](/KJHPort/images/java-food.png)
+
 
 
 ### 5-3. 구현 방식 선택 이유
