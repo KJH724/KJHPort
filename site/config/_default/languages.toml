@@ -21,7 +21,7 @@ weight = 300
 
 [[ko.menu.main]]
 name = "About"
-url = "/about/"
+url = "/KJHPort/about/"
 weight = 400
 
 [[ko.menu.main]]
