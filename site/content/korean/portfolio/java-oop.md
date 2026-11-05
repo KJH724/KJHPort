@@ -42,6 +42,13 @@ draft = false
 
 음식과 운동을 각각 Food, Workout 클래스로 구분하고, 공통으로 사용하는 prtInfo()와 computeKcal() 메소드를 FunctionName 인터페이스에 정의하였습니다.
 
+- FunctionName 인터페이스
+
+음식, 운동 클래스에서 공통으로 사용할 메소드를 정의하였습니다.
+
+![FunctionName 인터페이스](/KJHPort/images/java-interface.png
+
+
 ### 5-3. 구현 방식 선택 이유
 
 음식과 운동 모두 칼로리를 계산하고 정보를 출력하는 기능이 필요하므로, 공통 메소드를 정의할 수 있는 인터페이스를 사용하였습니다.
